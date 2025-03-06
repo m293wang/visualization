@@ -10,25 +10,26 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Bad: https://datavizproject.com/data-type/arc-diagram/ (least to most relevant defect arc diagram)
+      Good: https://datavizproject.com/data-type/bar-chart/ (industry experience vs years in role bar chart)
 
+      The good graph:
+      - clearly conveying information: each data point is labelled and each graph have a title to state their intentions
+      - effective use of design: each bar is labelled a different color to differentiate from one and other
+      - accurate representation: all bars add up to 100% and each bar height is scaled accordingly
 
-
-
-
-
+      The bad digram:
+      - cluttered: feels a bit complicated and there are too many lines connecting between elements that it makes it hard to read at first glance
+      - missing info: this particular diagram is missing a title making it hard to know what it's showing
+      - misleading: the lines on the right are more exagerrated but I don't think they're more important than the ones to the left of the digram, which may be misleading to the reader without looking more into the diagram
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      For the bad diagram:
+      - increase clarity: start by adding a title and a legend (not sure right now what the differnet colors mean)
+      - reduce clutter: consider increading readability by splitting the diagram in two if neceessary, since the left side of the diagram doesn't seem to be interacting with the right side, consider having 2 graphs to represent the groups of data
 
-
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
