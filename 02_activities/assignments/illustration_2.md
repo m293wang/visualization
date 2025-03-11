@@ -3,7 +3,7 @@ Source: https://data.ontario.ca/dataset/ontario-top-baby-names-female
 Plot 2: 'Frequency of "Mina" as a baby girl name in Ontario through history'
 
 > What software did you use to create your data visualization?
-    Python
+    Excel
 > Who is your intended audience? 
     Potential parents or individuals who are interested in the name 'Mina' and its popularity throughout history in Ontario.
 > What information or message are you trying to convey with your visualization? 
